@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none">
+  <!-- Rounded container -->
+  <rect width="48" height="48" rx="12" fill="#18382F"/>
+  <!-- Subtle accent border -->
+  <rect x="1" y="1" width="46" height="46" rx="11" stroke="#5A7D71" stroke-width="1.5" stroke-opacity="0.4"/>
+  <!-- Stylised tooth crown in clinical white -->
+  <path d="M24 10C18.5 10 14 13.5 14 18C14 22 16 26 18 31C19.5 34.5 21 38 22.5 38C23.5 38 23.8 35 24 33C24.2 35 24.5 38 25.5 38C27 38 28.5 34.5 30 31C32 26 34 22 34 18C34 13.5 29.5 10 24 10Z" fill="#FFFFFF"/>
+  <!-- Inner anatomical curve in soft sage tint -->
+  <path d="M24 14C20.5 14 18 16.5 18 19C18 22 19.5 25 21 28.5C21.8 30.5 22.5 32 23.2 33C23.6 30 24 28 24 27C24 28 24.4 30 24.8 33C25.5 32 26.2 30.5 27 28.5C28.5 25 30 22 30 19C30 16.5 27.5 14 24 14Z" fill="#C5EBDC" fill-opacity="0.7"/>
+  <!-- Golden precision sparkle -->
+  <path d="M34 11L35 13.5L37.5 14.5L35 15.5L34 18L33 15.5L30.5 14.5L33 13.5L34 11Z" fill="#F7BD58"/>
+</svg>
